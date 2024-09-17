@@ -1,0 +1,203 @@
+
+
+header
+{
+    background-color:purple;
+    width: 100%;
+    height: 40px;
+}
+
+
+#logo
+{
+    margin-left:20px;
+    margin-top: 7px
+    margin-bottom: 7px;
+    height:40px
+}
+#la1{
+
+    word-spacing: 10px;
+
+
+}
+nav a
+{
+
+    text-decoration: none;
+    color:white;
+    font-size: 25px;
+    float:inline-start;
+    /*border: 1px solid wheat;*/
+    
+    
+    padding: 7px;
+    margin-right: 21px;
+margin-left: 5px;
+
+}
+
+nav{
+    float:right;
+    margin-right: 500px;
+}
+
+
+
+
+nav a:hover
+{
+background-color: teal;
+color: white;
+}
+#logo 
+{
+    margin-left: 70px;
+    margin-top: 7px
+    margin-bottom: 7px;
+}
+.textgrp{
+    color:white;
+    margin-top: 13%;
+    margin-left: 3%;
+    margin-right: 50%;
+    width: 50%;
+}
+.textgrp h4
+{
+padding-left: 3%;
+}
+nav  #t1{
+
+    margin-left: 70px;
+    margin-top: 7px;
+    float: left;
+    
+}
+/*form
+{
+    float: right;
+    border: 2px solid red;
+    background-color: beige;
+    height: 15em;
+    margin-right:30px ;
+    margin-top: 60px;
+    padding: 4%;
+}*/
+
+#f1
+{
+    float: right;
+    border: none;
+    background-color:white;
+    height: 30em;
+    margin-right:30px ;
+    margin-top: 60px;
+    padding: 4%;
+}
+
+#f2
+{
+    float: right;
+    border:none;
+    background-color:white;
+    height: 35em;
+    margin-right:30px ;
+    margin-top: 60px;
+    padding: 4%;
+    width:30em ;
+}
+
+#f0
+{
+
+
+    float:right;
+    border: none;
+    background-color:white;
+    height: 30em;
+    margin-right:450px ;
+    margin-top: 60px;
+    padding: 4%;
+    
+}
+
+
+
+form #btn1
+{
+    width: 100%;
+    background-color: blue;
+    border: none;
+    color: white;
+}
+.container
+{
+
+    margin-top: 450px;
+    background-color: none;
+
+}
+
+#b1{
+    background-color:#f2f4f7;
+}
+
+#he6{
+
+    color:red;
+    text-align: justify;
+}
+body
+{
+
+    
+        background-color: blue;
+    
+}
+.he1{
+
+     margin-top: 70px;
+     float: right;
+     margin-right: 400px;
+ font-size: 35px;
+ color: blue;
+    
+ 
+}
+#l2{
+    color: white;
+    font-size: 20px;
+    float: right;
+    margin-top: 6px;
+    margin-right: 100px;
+}
+
+
+
+ 
+
+.boxp
+{
+float: right;
+border:none;
+background-color:white;
+width: 20%;
+padding: 15px;
+margin-left: 5px;
+margin-right: 5px;
+
+    
+
+}
+footer
+{
+    background-color:black;
+    width: 100%;
+    height: 20px;
+    
+    
+}
+footer h3{
+    color: white;
+}
